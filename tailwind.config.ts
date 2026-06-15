@@ -5,13 +5,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        navy: "#0F172A",
-        blue: "#2563EB",
-        emerald: "#10B981",
-        surface: "#F8FAFC",
+        navy: "#0B1020",
+        blue: "#5B5CF6",
+        emerald: "#14B8A6",
+        surface: "#F7F8FF",
       },
       boxShadow: {
-        soft: "0 18px 50px rgba(15, 23, 42, 0.08)",
+        soft: "0 24px 80px rgba(68, 64, 180, 0.13)",
+        glow: "0 22px 60px rgba(91, 92, 246, 0.28)",
       },
     },
   },
